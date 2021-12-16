@@ -6,7 +6,7 @@ Running inference at the zoo.
 
 * Seems to have trouble staying confident in ROIs that are far a way from the viewing point. => Need to gather more data.
 
-* Continue training from saved model latest checkpoint that last training finished.
+* Continue training from saved model latest checkpoint where last training finished.
 
 ![Test Image 3](https://github.com/al-lu/penguin_detection/blob/main/demo_1.gif)
 ![Test Image 4](https://github.com/al-lu/penguin_detection/blob/main/0000003000.jpg)
