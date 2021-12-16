@@ -4,7 +4,7 @@ Running inference at the zoo.
 
 * Doesn't work in real time...yet. I have a architecture in mind that might work.
 
-* Seems to have trouble staying confident in ROIs that are far a way from the viewing point. => Need to gather more data.
+* Seems to have trouble staying confident in ROIs that are far a way from the viewing point. => Need to gather more data or try out a different algorithm or reconfigure training pipeline.
 
 * Continue training from saved model latest checkpoint where last training finished.
 
