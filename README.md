@@ -1,11 +1,7 @@
 # penguin_detection
 Running inference at the zoo.
 
-! For Recruiters
-
 * Google computer vision if you have no idea what these boxes mean.
-
-! For other people
 
 * Doesn't work in real time...yet. I have architecture in mind that might work.
 
