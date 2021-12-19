@@ -10,7 +10,14 @@ Running inference at the zoo.
 
 * Continue training from saved model latest checkpoint where last training finished.
 
+* Current
 ![Test Image 2](https://github.com/al-lu/penguin_detection/blob/main/demo_3.gif)
+
+*Old
 ![Test Image 2](https://github.com/al-lu/penguin_detection/blob/main/demo_2.gif)
+
+*Old
 ![Test Image 3](https://github.com/al-lu/penguin_detection/blob/main/demo_1.gif)
+
+*Old
 ![Test Image 4](https://github.com/al-lu/penguin_detection/blob/main/0000003000.jpg)
