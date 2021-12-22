@@ -3,8 +3,8 @@ Running inference at the zoo.
 
 * Google computer vision if you have no idea what these boxes mean.
 
-* Doesn't work in real time...yet. I have architecture in mind that might work. EDIT. Works in real time now. Needs more training and framerate optimization.
-* UPDATE!!! I was able to make it alot faster and I have an idea to get it even faster. Achieved 7fps while running detections in real time.
+* Doesn't work in real-time...yet. I have architecture in mind that might work. EDIT. Works in real-time now. Needs more training and framerate optimization.
+* UPDATE!!! I was able to make it alot faster and I have an idea to get it even faster. Achieved 7fps while running detections in real-time.
 
 * Seems to have trouble staying confident in ROIs that are far away from the viewing point. => Need to gather more data or try out a different algorithm or reconfigure training pipeline.
 
